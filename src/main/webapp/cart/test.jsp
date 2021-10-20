@@ -13,5 +13,6 @@
 <body>
 test123
 test123456
+testnew-points
 </body>
 </html>
