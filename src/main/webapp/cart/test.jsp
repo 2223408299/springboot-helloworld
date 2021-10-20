@@ -13,6 +13,6 @@
 <body>
 test123
 test123456
-testmaster
+testnew-points
 </body>
 </html>
