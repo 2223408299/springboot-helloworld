@@ -10,6 +10,6 @@ public class HelloController {
     @RequestMapping("/hello")
     public String hello(){
         System.out.println(123);
-        return "index";
+        return "cart/test";
     }
 }
